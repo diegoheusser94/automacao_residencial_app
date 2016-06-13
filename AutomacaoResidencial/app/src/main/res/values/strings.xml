@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Automação Residencial</string>
+    <string name="ligar">ligado</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="descricao">Descrição</string>
+    <string name="rele">Relé</string>
+    <string name="status">Status</string>
+    <string name="salvar">Salvar</string>
+</resources>
